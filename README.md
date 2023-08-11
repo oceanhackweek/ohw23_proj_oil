@@ -17,6 +17,7 @@ The main idea of this project is to automate the process of identifying a possib
  4. Presentation: visualize the segments: make a list, save metadata (future)
 
 ## Datasets
+The images used were taken from the second [COSMO-SkyMed](https://earth.esa.int/eogateway/missions/cosmo-skymed) satellite with the ID CSKS2. 
 
 ## References/ Literature Review
 ### More relevant:
