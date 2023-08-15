@@ -19,6 +19,8 @@ The main idea of this project is to automate the process of identifying a possib
 ## Datasets
 The images used were taken from a [SAR-2000](https://space.oscar.wmo.int/instruments/view/sar_2000) imaging sensor on the second [COSMO-SkyMed](https://earth.esa.int/eogateway/missions/cosmo-skymed) satellite called [CSKS2](https://space.oscar.wmo.int/satellites/view/csk_2). 
 
+#Presentation link: https://docs.google.com/presentation/d/1cOAcY_P9DEm4YivwGf09aQw6VUF08CZnQz67Av50jdw/edit?usp=sharing
+
 ## References/ Literature Review
 ### More relevant:
  1. [Sensors, Features, and Machine Learning for Oil Spill Detection and Monitoring: A Review](https://www.mdpi.com/2072-4292/12/20/3338): contains statistics for pre-processing
