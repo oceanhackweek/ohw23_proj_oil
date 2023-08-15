@@ -1,0 +1,1 @@
+pip install opencv-python pandas screeninfo matplotlib pipreqs
