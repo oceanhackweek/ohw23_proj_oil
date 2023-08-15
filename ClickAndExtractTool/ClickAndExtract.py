@@ -1,5 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+#
+# This script loop at every image and the corresponding mask files in the directories, 
+# and allows to click in the segment and extract some statistical metrics
+# of the segment in the original image.
+#
+# Authors: J.R. Garcia and M. P. Graziotto
+# Ocean Hack Week - 2023
+#
+
 
 import cv2  # BGR, np.array
 import csv
