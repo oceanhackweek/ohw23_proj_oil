@@ -5,7 +5,8 @@
 # and allows to click in the segment and extract some statistical metrics
 # of the segment in the original image.
 #
-# Authors: J.R. Garcia and M. P. Graziotto
+# Authors: J.R. Garcia (roberto.garcia@inpe.br)
+#          M.P. Graziotto (graciotomariapaula@gmail.com)
 # Ocean Hack Week - 2023
 #
 
